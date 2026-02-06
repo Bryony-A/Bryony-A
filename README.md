@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I’m Bryony 👋
 
-<!--
-**Bryony-A/Bryony-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Master's student specialising in data analytics, business insights, 
+and data storytelling.
 
-Here are some ideas to get you started:
+### 🔍 What I work on
+- Retail & fashion analytics projects
+- Consumer segmentation & trend analysis
+- Data visualisation & storytelling for business decisions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Skills
+- SQL | Python | Excel
+- Power BI | Tableau | Flourish
+- Market analysis | KPI design | Insight reporting
+
+### 📂 Featured Projects
+- Retail Fashion Portfolio – Sales, customer & trend analysis
+- 
+- 
+
+### 🌐 Let’s connect
+- LinkedIn: www.linkedin.com/in/bryony-abidemi
+
