@@ -12,7 +12,7 @@ Data Analyst with a background in operations and business intelligence, currentl
 
 ## 🛠️ Skills & Tools
 
-`SQL (MySQL)` · `Python` · `Excel` (advanced formulas, pivot tables) · `Power BI` · `Data Cleaning` · `Business Intelligence`
+`SQL (MySQL)` · `Python` · `Excel` · `Power BI` · `Data Cleaning` · `Business Intelligence`
 
 ## 📁 Featured Projects
 
