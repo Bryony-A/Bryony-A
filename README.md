@@ -22,7 +22,7 @@ An RFM (Recency, Frequency, Monetary) segmentation and retention-risk analysis f
 - **Deliverables:** interactive Power BI dashboard, segment lookup model, written findings & recommendations
 
 ### 🏥 [Hospital Flow Analysis — NHS Trust Staffing vs. Wait Times](#)
-A staffing-allocation case study for a fictional NHS Trust: cleaned and audited admissions, roster, and staffing data in MySQL, built diagnostic SQL queries to test the relationship between staffing levels and patient wait times, and ran a fixed-effects regression to inform a recommendation memo on where a limited staffing budget should go.
+A staffing-allocation case study for a fictional NHS Trust: cleaned and audited admissions, roster, and staffing data in MySQL, built diagnostic SQL queries to test the relationship between staffing levels and patient wait times.
 - **Tools:** MySQL
 - **Deliverables:** data cleaning audit, SQL diagnostic workbook
 ## 📫 Get in Touch
