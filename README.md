@@ -16,7 +16,7 @@ Data Analyst with a background in operations and business intelligence, currentl
 
 ## 📁 Featured Projects
 
-### 🛍️ [Customer Segmentation Analysis — Nordlane RFM Segmentation](#)
+### 🛍️ [Customer Segmentation Analysis — Nordlane RFM Segmentation](https://github.com/Bryony-A/Retention-Lifecycle-Analysis)
 An RFM (Recency, Frequency, Monetary) segmentation and retention-risk analysis for a fictional DTC home goods retailer, framed as a real targeting decision for a Growth Marketing Lead working within a fixed retention budget.
 - **Tools:** Excel, Power BI
 - **Deliverables:** interactive Power BI dashboard, segment lookup model, written findings & recommendations
