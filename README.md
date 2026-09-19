@@ -27,8 +27,8 @@ A staffing-allocation case study for a fictional NHS Trust: cleaned and audited 
 - **Deliverables:** data cleaning audit, SQL diagnostic workbook
 ## 📫 Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/bryony-abidemi)
-- [Email](bryonyabidemi@gmail.com)
+- LinkedIn: www.linkedin.com/in/bryony-abidemi
+- Email: bryonyabidemi@gmail.com
 
 ---
 *Open to entry-to-mid-level Data Analyst roles — always happy to chat about data, dashboards, or a good regression model.*
