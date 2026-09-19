@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Bryony 👋
 
-<!--
-**Bryony-A/Bryony-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a background in operations and business intelligence, currently based in the UK.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Currently **Junior Operations Analyst** at Barrel Accessories and Sales Co. (BASCO) — remote, since July 2025
+- 🏭 Previously **Data Associate** at TuraTech Engineering Consultancy Service (Wednesbury, UK), May 2023 – May 2025
+- 🎓 **MSc International Business** (Business Intelligence, Data Analytics, Financial & Operational Management) — Hult International Business School, London
+- 📜 **IBM Data Analyst Professional Certificate** (Coursera)
+- 🔍 Looking for opportunities where I can turn messy, real-world data into decisions stakeholders can act on
+
+## 🛠️ Skills & Tools
+
+`SQL (MySQL)` · `Python` · `Excel` (advanced formulas, pivot tables) · `Power BI` · `Data Cleaning` · `Business Intelligence`
+
+## 📁 Featured Projects
+
+### 🛍️ [Customer Segmentation Analysis — Nordlane RFM Segmentation](#)
+An RFM (Recency, Frequency, Monetary) segmentation and retention-risk analysis for a fictional DTC home goods retailer, framed as a real targeting decision for a Growth Marketing Lead working within a fixed retention budget.
+- **Tools:** Excel, Power BI
+- **Deliverables:** interactive Power BI dashboard, segment lookup model, written findings & recommendations
+
+*(Add project links/repo URLs once published — swap out the `#` placeholders above.)*
+
+### 🏥 [Hospital Flow Analysis — NHS Trust Staffing vs. Wait Times](#)
+A staffing-allocation case study for a fictional NHS Trust: cleaned and audited admissions, roster, and staffing data in MySQL, built diagnostic SQL queries to test the relationship between staffing levels and patient wait times, and ran a fixed-effects regression to inform a recommendation memo on where a limited staffing budget should go.
+- **Tools:** MySQL, Python/R
+- **Deliverables:** data cleaning audit, SQL diagnostic workbook, regression analysis, recommendation memo
+
+## 📫 Get in Touch
+
+- [LinkedIn](www.linkedin.com/in/bryony-abidemi)
+- [Email](bryonyabidemi@gmail.com)
+
+---
+*Open to entry-to-mid-level Data Analyst roles — always happy to chat about data, dashboards, or a good regression model.*
