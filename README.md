@@ -4,7 +4,7 @@ Data Analyst with a background in operations and business intelligence, currentl
 
 ## About Me
 
-- 📊 **Junior Operations Analyst** at Barrel Accessories and Sales Co. (BASCO) — remote, July 2025 - January 2026
+- 📊 **Junior Data Analyst** at Barrel Accessories and Sales Co. (BASCO) — remote, August 2025 - January 2026
 - 🏭 Previously **Data Associate** at TuraTech Engineering Consultancy Service (Wednesbury, UK), May 2023 – May 2025
 - 🎓 **MSc International Business** (Business Intelligence, Data Analytics, Financial & Operational Management) — Hult International Business School, London
 - 📜 **IBM Data Analyst Professional Certificate** (Coursera)
