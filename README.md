@@ -4,7 +4,7 @@ Data Analyst with a background in operations and business intelligence, currentl
 
 ## About Me
 
-- 📊 Currently **Junior Operations Analyst** at Barrel Accessories and Sales Co. (BASCO) — remote, since July 2025
+- 📊 **Junior Operations Analyst** at Barrel Accessories and Sales Co. (BASCO) — remote, July 2025 - January 2026
 - 🏭 Previously **Data Associate** at TuraTech Engineering Consultancy Service (Wednesbury, UK), May 2023 – May 2025
 - 🎓 **MSc International Business** (Business Intelligence, Data Analytics, Financial & Operational Management) — Hult International Business School, London
 - 📜 **IBM Data Analyst Professional Certificate** (Coursera)
@@ -21,10 +21,11 @@ An RFM (Recency, Frequency, Monetary) segmentation and retention-risk analysis f
 - **Tools:** Excel, Power BI
 - **Deliverables:** interactive Power BI dashboard, segment lookup model, written findings & recommendations
 
-### 🏥 [Hospital Flow Analysis — NHS Trust Staffing vs. Wait Times](#)
-A staffing-allocation case study for a fictional NHS Trust: cleaned and audited admissions, roster, and staffing data in MySQL, built diagnostic SQL queries to test the relationship between staffing levels and patient wait times.
-- **Tools:** MySQL
-- **Deliverables:** data cleaning audit, SQL diagnostic workbook
+###  [Breaking Games E-Commerce Analytics - SQL & Database Architecture](#)
+
+- **Tools:** SQLite
+- **Deliverables:** E-Commerce insights, analytics database in SQLite, connecting ad spend to revenue
+
 ## 📫 Get in Touch
 
 - LinkedIn: www.linkedin.com/in/bryony-abidemi
